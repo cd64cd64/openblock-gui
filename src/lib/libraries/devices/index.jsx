@@ -383,7 +383,7 @@ const deviceData = [
         helpLink: 'https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/maix_duino.html'
     },
     {
-        name: 'Raspberry Pi Pico',
+        name: 'Raspberry Pi Pico Test',
         deviceId: 'arduinoRaspberryPiPico',
         manufactor: 'Raspberry Pi Foundation',
         learnMore: 'https://www.raspberrypi.com/',
